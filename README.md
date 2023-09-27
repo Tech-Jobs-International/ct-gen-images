@@ -1,2 +1,3 @@
 # ct-gen-images
-Repo to store images for the educational CT-Generator
+
+The purpose of this repo is to store images for the educational CT-Generator.
